@@ -132,16 +132,19 @@
   <data name="Point" xml:space="preserve">
     <value>Point</value>
   </data>
+  <data name="RangeValidation" xml:space="preserve">
+    <value>{0} doit être entre {1} et {2}</value>
+  </data>
   <data name="ShortDesc" xml:space="preserve">
     <value>Résumé</value>
-  </data>
-  <data name="ValidationRange" xml:space="preserve">
-    <value>{0} doit avoir une valeur entre {1} et {2}.</value>
   </data>
   <data name="Zombie" xml:space="preserve">
     <value>Zombie</value>
   </data>
   <data name="ZombieType" xml:space="preserve">
     <value>Type</value>
+  </data>
+  <data name="ValidationRange" xml:space="preserve">
+    <value>{0} doit avoir une valeur entre {1} et {2}.</value>
   </data>
 </root>

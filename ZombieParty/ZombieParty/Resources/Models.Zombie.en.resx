@@ -144,4 +144,7 @@
   <data name="ZombieType" xml:space="preserve">
     <value>Type</value>
   </data>
+  <data name="ValidationRange" xml:space="preserve">
+    <value>{0} must be have a value between {1} and {2}</value>
+  </data>
 </root>
