@@ -132,4 +132,10 @@
   <data name="Title" xml:space="preserve">
     <value>Types de zombies</value>
   </data>
+  <data name="TypeName" xml:space="preserve">
+    <value>Nom du type</value>
+  </data>
+  <data name="TypePoint" xml:space="preserve">
+    <value>Pointage du type</value>
+  </data>
 </root>
